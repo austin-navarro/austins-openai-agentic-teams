@@ -1,0 +1,30 @@
+{
+  "title": "Apple vs Orange",
+  "slug": "apple-vs-orange",
+  "intro": "<p>It's a classic comparison, as old as time itself - Apple vs Orange. These two fruits, while both delicious and nutritious, are as different as night and day. So, what exactly sets these two fruits apart? Join us as we delve into the distinctive characteristics, nutritional profiles, and cultural significance of these beloved fruits.</p>",
+  "comparisonImage": "apple-vs-orange",
+  "sections": [
+    {
+      "heading": "Appearance and Taste",
+      "content": "<p>The <strong>apple</strong> and <strong>orange</strong> are distinctly different in appearance and taste. Apples have a smooth, shiny outer peel in shades of red, green, or yellow, while oranges have a thick, bumpy rind that is typically bright orange. Taste-wise, apples are generally sweet with a slight tartness, and have a crisp texture. Oranges, on the other hand, are citrusy, sweet-to-tart, and juicy.</p>"
+    },
+    {
+      "heading": "Nutritional Value",
+      "content": "<p>Both apples and oranges are good sources of essential nutrients. An <strong>apple</strong> is rich in dietary fiber, especially if you eat the skin, and is a good source of vitamin C and potassium. An <strong>orange</strong>, meanwhile, is famous for its high vitamin C content, but it's also a good source of fiber, folate, and potassium. Both fruits are low in calories and virtually fat-free.</p>"
+    },
+    {
+      "heading": "Cultural Significance",
+      "content": "<p><strong>Apples</strong> and <strong>oranges</strong> both have deep cultural significance. In Western culture, apples are often associated with knowledge and temptation, as in the biblical story of Adam and Eve. Oranges, in contrast, are considered symbols of abundance and happiness in many Asian cultures, especially during celebrations like Chinese New Year.</p>"
+    },
+    {
+      "heading": "Usage in Cooking",
+      "content": "<p>Both fruits are versatile in cooking. <strong>Apples</strong> are commonly used in desserts like pies and tarts, but can also be used in savory dishes, salads, and sauces. <strong>Oranges</strong> are used in a variety of ways, from the juice as a drink or in marinades, to the zest in baking and cooking, to the flesh in salads and desserts.</p>"
+    },
+    {
+      "heading": "Availability and Storage",
+      "content": "<p><strong>Apples</strong> are typically harvested in the fall, but thanks to modern storage techniques, they can be available year-round. <strong>Oranges</strong>, on the other hand, are a winter fruit. Both fruits can be stored at room temperature for about a week, but will last longer in the refrigerator.</p>"
+    }
+  ],
+  "conclusion": "<p>While apples and oranges are both fruits, the similarities might just end there. Each possesses a unique set of characteristics, nutritional benefits, and uses in cooking. Whether you prefer the crisp tanginess of an apple or the juicy sweetness of an orange, both are excellent choices for adding nutritional value and flavor to your diet.</p>",
+  "published": true
+}

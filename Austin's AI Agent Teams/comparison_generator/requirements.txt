@@ -1,0 +1,6 @@
+openai>=1.0.0
+tenacity>=8.0.0
+python-dotenv>=1.0.0
+aiohttp>=3.8.0
+pillow>=10.0.0  # For potential image processing needs
+python-slugify>=8.0.0  # For mediaId generation 
